@@ -1,0 +1,30 @@
+
+May 21, 2021 16:18:26.158 NEW SESSION
+May 21, 2021 16:18:26.159 [GFX1-]: shader-cache: Timed out before finishing loads
+May 21, 2021 16:18:26.317 [2021-05-21T10:48:26Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+May 21, 2021 16:19:07.571 [Parent 7068, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+May 21, 2021 16:19:07.572 [Parent 7068, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+May 21, 2021 16:19:08.215 [Parent 7068, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+May 24, 2021 13:13:34.293 NEW SESSION
+May 24, 2021 13:13:34.293 [Parent 8324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+May 24, 2021 13:13:35.48 
+May 24, 2021 13:13:35.49 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+May 24, 2021 13:13:35.49 
+May 24, 2021 13:30:07.581 [GFX1-]: shader-cache: Timed out before finishing loads
+May 24, 2021 13:30:07.602 [2021-05-24T08:00:07Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+May 24, 2021 13:30:18.249 [Parent 14584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+May 24, 2021 13:30:18.795 
+May 24, 2021 13:30:18.796 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+May 24, 2021 13:30:18.797 
+May 24, 2021 13:30:45.695 [Parent 17948, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+May 24, 2021 13:30:46.107 
+May 24, 2021 13:30:46.108 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+May 24, 2021 13:30:46.109 
+May 24, 2021 14:37:27.719 [GFX1-]: shader-cache: Timed out before finishing loads
+May 24, 2021 14:37:27.761 [2021-05-24T09:07:27Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+May 24, 2021 14:37:50.556 [Parent 10460, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+May 24, 2021 14:37:50.557 [Parent 10460, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+May 24, 2021 14:37:52.64 
+May 24, 2021 14:37:52.65 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+May 24, 2021 14:37:52.66 

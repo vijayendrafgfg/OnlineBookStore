@@ -1,0 +1,11 @@
+package com.bookstore.entity;
+
+public class Users {
+
+	private integer user_id;
+	private String email;
+	private String password;
+	private String full_name;
+	
+	
+}

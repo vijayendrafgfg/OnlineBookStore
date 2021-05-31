@@ -1,0 +1,11 @@
+import javax.persistence.Persistence;
+
+public class UsersTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Persistence.createEntityManagerFactory(BookStoreWebsite)
+		
+	}
+
+}
